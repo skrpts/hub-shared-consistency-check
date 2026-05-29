@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "c8c9d6e3-067b-483d-b1c5-bed66566ade9"
+name: "consistency-check"
+display_name: "Consistency Check"
+description: "Checks naming, terminology, tense, voice, style, and internal coherence across a document"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-consistency-check"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
